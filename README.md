@@ -1,2 +1,3 @@
-# 6-PythonAPIs
-Randomized list of global cities to plot correlations in latitude and weather patterns
+# Latitudinal Effects on Weather Patterns
+
+In this prject, I pull API data from [api.openweather.org](api.openweather.org) to explore the effect that different latitudes have on weather patterns including humidity, wind speed, temperature, and cloudiness.  I do this by creating a randomized list of global city zipcodes generated my the CityPy package.
